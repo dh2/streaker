@@ -26,3 +26,10 @@ const streak = streakCounter(localStorage, today);
 //     startDate: "05/13/2024",
 // }
 ```
+
+##Course differentiations
+- Mostly followed the course
+- Refactor wasn't really needed
+- Used and Enum instead of string literals
+- overwrote streak from default as we went
+- added ignoring of __test__ folder in compilation
